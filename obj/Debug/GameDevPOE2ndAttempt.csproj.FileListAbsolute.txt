@@ -1,0 +1,10 @@
+C:\Users\LPOTT\source\repos\GameDevPOE2ndAttempt\GameDevPOE2ndAttempt\bin\Debug\GameDevPOE2ndAttempt.exe.config
+C:\Users\LPOTT\source\repos\GameDevPOE2ndAttempt\GameDevPOE2ndAttempt\bin\Debug\GameDevPOE2ndAttempt.exe
+C:\Users\LPOTT\source\repos\GameDevPOE2ndAttempt\GameDevPOE2ndAttempt\bin\Debug\GameDevPOE2ndAttempt.pdb
+C:\Users\LPOTT\source\repos\GameDevPOE2ndAttempt\GameDevPOE2ndAttempt\obj\Debug\GameDevPOE2ndAttempt.Form1.resources
+C:\Users\LPOTT\source\repos\GameDevPOE2ndAttempt\GameDevPOE2ndAttempt\obj\Debug\GameDevPOE2ndAttempt.Properties.Resources.resources
+C:\Users\LPOTT\source\repos\GameDevPOE2ndAttempt\GameDevPOE2ndAttempt\obj\Debug\GameDevPOE2ndAttempt.csproj.GenerateResource.cache
+C:\Users\LPOTT\source\repos\GameDevPOE2ndAttempt\GameDevPOE2ndAttempt\obj\Debug\GameDevPOE2ndAttempt.csproj.CoreCompileInputs.cache
+C:\Users\LPOTT\source\repos\GameDevPOE2ndAttempt\GameDevPOE2ndAttempt\obj\Debug\GameDevPOE2ndAttempt.exe
+C:\Users\LPOTT\source\repos\GameDevPOE2ndAttempt\GameDevPOE2ndAttempt\obj\Debug\GameDevPOE2ndAttempt.pdb
+C:\Users\LPOTT\source\repos\GameDevPOE2ndAttempt\GameDevPOE2ndAttempt\obj\Debug\GameDevPOE2ndAttempt.csprojAssemblyReference.cache
